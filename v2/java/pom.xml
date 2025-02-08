@@ -26,8 +26,8 @@
 
   <scm>
     <connection>scm:git:git://github.com/googleads/googleads-adsense-examples.git</connection>
-    <developerConnection>scm:git:git://github.com/googleads/googleads-adsense-examples.git</developerConnection>
-    <url>https://github.com/googleads/googleads-adsense-examples</url>
+    <developerConnection>scm:git:git://github.com/jagodekor/adsense.git</developerConnection>
+    <url>https://github.com/jagodekor/adsense</url>
   </scm>
 
   <build>
