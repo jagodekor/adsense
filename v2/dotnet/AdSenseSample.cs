@@ -49,8 +49,8 @@ namespace AdSense.Sample {
       GoogleWebAuthorizationBroker.Folder = "AdSense.Sample";
       var credential =
           GoogleWebAuthorizationBroker
-              .AuthorizeAsync(new ClientSecrets { ClientId = "INSERT_CLIENT_ID_HERE",
-                                                  ClientSecret = "INSERT_CLIENT_SECRET_HERE" },
+              .AuthorizeAsync(new ClientSecrets { ClientId = "216723015727-q403c4ptn2d71ni1s0b27md5gp31251q.apps.googleusercontent.com",
+                                                  ClientSecret = "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" },
                               new string[] { AdsenseService.Scope.Adsense }, "user",
                               CancellationToken.None)
               .Result;
